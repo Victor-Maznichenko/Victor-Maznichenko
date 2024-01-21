@@ -13,7 +13,7 @@ I am currently trying hard to become a <b>Frontend developer</b> and get a job. 
 <div style="max-width:900px;">
    Since 2020 I dream to become a front-end developer and work on real projects. All this time I was mainly engaged in self-education. 
 
-   In the period 2020-2022 I worked on freelancing, I was doing Wordpress layout and stretching, here is my profile: <a style="color:#0177a9;" href="https://www.weblancer.net/users/vmaz/" target="_blank">click me!<img height="20" width="20" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png"/></a>
+   In the period 2020-2022 I worked on freelancing, I was doing Wordpress layout and stretching, here is my profile: <a style="color:#0177a9;" href="https://www.weblancer.net/users/vmaz/" target="_blank">click me!<img height="20" width="20" src="./images/click.png"/></a>
 
    I'm sure that if I get a job as a developer in a company, I will be able to develop faster in this field. I am ready to do a test task to demonstrate the level of my skills.
 </div>
