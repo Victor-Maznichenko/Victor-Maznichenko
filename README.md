@@ -3,12 +3,10 @@
 
 I am currently trying hard to become a <b>Frontend developer</b> and get a job. <span style="font-size: 20px"><img height="24" width="24" src="./images/find_job.png"/></span>
 
-<div style="display:flex; gap:20px;">
-   <a style="display:block;" href="https://t.me/One_twwo_three" target="_blank"><img width="40" height="40" src="./images/telegram.png"/></a>
-   <a style="display:block;" href="https://vk.com/one_twwo_three" target="_blank"><img width="40" height="40" src="./images//vk.png"/></a>
-   <a style="display:block;" href="mailto:victor_maznichenko@mail.ru" target="_blank"><img width="40" height="40" src="./images//email.png"/></a>
-   <a style="display:block;" href="https://discordapp.com/users/500362580288864256/" target="_blank"><img width="40" height="40" src="./images/discord.png"/></a>
-</div>
+<a style="display:inline-block; margin-right:20px;" href="https://t.me/One_twwo_three" target="_blank"><img width="40" height="40" src="./images/telegram.png"/></a>
+<a style="display:inline-block; margin-right:20px;" href="https://vk.com/one_twwo_three" target="_blank"><img width="40" height="40" src="./images//vk.png"/></a>
+<a style="display:inline-block; margin-right:20px;" href="mailto:victor_maznichenko@mail.ru" target="_blank"><img width="40" height="40" src="./images//email.png"/></a>
+<a style="display:inline-block;" href="https://discordapp.com/users/500362580288864256/" target="_blank"><img width="40" height="40" src="./images/discord.png"/></a>
 <br>
 <div style="max-width:900px;">
    Since 2020 I dream to become a front-end developer and work on real projects. All this time I was mainly engaged in self-education. 
