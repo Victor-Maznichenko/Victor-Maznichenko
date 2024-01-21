@@ -1,5 +1,5 @@
 # `<HelloWorld/>` 🌟🎉👋 <img align="right" src="https://komarev.com/ghpvc/?username=victor-maznichenko&color=2e1065"/>
-<div style="font-size:16px;"><span style="margin-right:15px;">Welcome to my profile :)</span>I'm <b>Victor Maznichenko</b></div> 
+<div style="font-size:16px;"><span style="margin-right:15px;">Welcome to my profile :)</span> I'm <b>Victor Maznichenko</b></div> 
 
 I am currently trying hard to become a <b>Frontend developer</b> and get a job. <span style="font-size: 20px"><img height="24" width="24" src="./images/find_job.png"/></span>
 
