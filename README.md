@@ -34,8 +34,6 @@ I am currently trying hard to become a **Frontend developer** and get a job. <sp
       </a>
       <br>CSS3
     </td>
-  </tr> 
-  <tr>
      <td align="center" width="110" height="90">
       <a href="#stack" >
         <img src="https://www.svgrepo.com/show/354987/figma.svg" width="36" height="36" alt="figma" />
@@ -48,6 +46,8 @@ I am currently trying hard to become a **Frontend developer** and get a job. <sp
       </a>
       <br>Git
     </td>
+  </tr> 
+  <tr>
     <td align="center" width="110" height="90"> 
       <a href="#stack">
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
