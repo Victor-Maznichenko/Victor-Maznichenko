@@ -1,41 +1,159 @@
 # `<HelloWorld/>` 🌟🎉👋 <img align="right" src="https://komarev.com/ghpvc/?username=victor-maznichenko&color=2e1065"/>
-<div style="font-size:16px;"><span style="margin-right:15px;">Welcome to my profile :)</span>I'm <b>Victor Maznichenko</b></div> 
+<div style="font-size:16px;">Welcome to my profile :)</div> 
 
 I am currently trying hard to become a **Frontend developer** and get a job. <span style="font-size: 20px"><img height="24" width="24" src="./images/find_job.png"/></span>
 
-<a href="https://t.me/One_twwo_three" target="_blank"><img width="40" height="40" src="./images/telegram.png"/></a>
-<a href="https://vk.com/one_twwo_three" target="_blank"><img width="40" height="40" src="./images//vk.png"/></a>
-<a href="mailto:victor_maznichenko@mail.ru" target="_blank"><img width="40" height="40" src="./images//email.png"/></a>
+
+<h2 align="left" id="stack">🔥 Tech stack</h2>
+
+> General
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://i.ibb.co/r0W7x4N/Type-Script.png" width="36" height="36" alt="typescript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://www.svgrepo.com/show/355081/js.svg" width="36" height="36" alt="javascript" />
+      </a>
+      <br>JavaScript
+    </td>
+        <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
+      </a>
+      <br>HTML5
+    </td>
+         <td align="center" width="110" height="90"> 
+      <a href="#stack" >
+        <img src="https://www.svgrepo.com/show/349330/css3.svg" width="36" height="36" alt="css3" />
+      </a>
+      <br>CSS3
+    </td>
+  </tr> 
+  <tr>
+     <td align="center" width="110" height="90">
+      <a href="#stack" >
+        <img src="https://www.svgrepo.com/show/354987/figma.svg" width="36" height="36" alt="figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#stack">
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
+      </a>
+      <br>GitHub
+    </td>
+  </tr>
+</table>
+
+> Code quality
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
+      </a>
+      <br>ESLint
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
+      </a>
+      <br>Prettier
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://www.svgrepo.com/show/354405/stylelint.svg" width="36" height="36" alt="prettier" />
+      </a>
+      <br>Stylelint
+    </td>
+  </tr> 
+</table>
+
+> Frontend
+
+<table width='100%'>
+  <tr>
+   <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://i.ibb.co/MB4fxFC/react.png" width="36" height="36" alt="React" />
+      </a>
+      <br>React
+    </td>
+     <td align="center" width="110" height="90">
+      <a href="#stack" >
+        <img src="https://www.svgrepo.com/show/342062/next-js.svg" width="36" height="36" alt="Next JS" />
+      </a>
+      <br>Next
+    </td>
+ <td align="center" width="110" height="90">
+      <a href="#stack" >
+        <img src="https://i.ibb.co/sPC44D6/redux.png" width="36" height="36" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#stack" >
+        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#stack" >
+        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
+      </a>
+      <br>Vite
+    </td> 
+  </tr> 
+    <tr>
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://www.svgrepo.com/show/374061/sass.svg" width="36" height="36" alt="Sass" />
+      </a>
+      <br>SASS
+    </td>
+   <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+  </tr> 
+</table>
+
+> Backend
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90"> 
+      <a href="#stack" >
+        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+  </tr> 
+</table>
+
+## ☄️ Contact
+<a href="https://t.me/One_twwo_three" target="_blank"><img width="40" height="40" src="./images/telegram.png"/></a>ㅤ
+<a href="https://vk.com/one_twwo_three" target="_blank"><img width="40" height="40" src="./images//vk.png"/></a> ㅤ
+<a href="mailto:victor_maznichenko@mail.ru" target="_blank"><img width="40" height="40" src="./images//email.png"/></a> ㅤ
 <a href="https://discordapp.com/users/500362580288864256/" target="_blank"><img width="40" height="40" src="./images/discord.png"/></a>
-<br>
-<div style="max-width:900px;">
-   Since 2020 I dream to become a front-end developer and work on real projects. All this time I was mainly engaged in self-education. 
-
-   In the period 2020-2022 I worked on freelancing, I was doing Wordpress layout and stretching, here is my profile: <a style="color:#0177a9;" href="https://www.weblancer.net/users/vmaz/" target="_blank">click me!<img height="20" width="20" src="./images/click.png"/></a>
-
-   I'm sure that if I get a job as a developer in a company, I will be able to develop faster in this field. I am ready to do a test task to demonstrate the level of my skills.
-</div>
-
-
-**Technologies**:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-<br>
-![Firebase](https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=%23#f97316)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23082f49.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white) 
-
-**Tools**:
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%232e1065.svg?style=for-the-badge&logo=vite&logoColor=f59e0b)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
