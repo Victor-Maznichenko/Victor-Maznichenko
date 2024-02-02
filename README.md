@@ -149,6 +149,12 @@ I am currently trying hard to become a **Frontend developer** and get a job. <sp
       </a>
       <br>Firebase
     </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#stack" >
+        <img src="https://raw.githubusercontent.com/Victor-Maznichenko/Victor-Maznichenko/155e6cde285b8610aa231a7a4ecee5b4cdc40faf/images/Contentful.svg" width="36" height="36" alt="Firebase" />
+      </a>
+      <br>Contentful
+    </td>
   </tr> 
 </table>
 
