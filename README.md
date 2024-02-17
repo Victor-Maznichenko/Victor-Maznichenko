@@ -79,12 +79,12 @@ I am currently trying hard to become a **Frontend developer** and get a job. <sp
       </a>
       <br>Prettier
     </td>
-    <td align="center" width="110" height="90">
+<!--     <td align="center" width="110" height="90">
       <a href="#stack">
         <img src="https://www.svgrepo.com/show/354405/stylelint.svg" width="36" height="36" alt="prettier" />
       </a>
       <br>Stylelint
-    </td>
+    </td> -->
   </tr> 
 </table>
 
@@ -102,7 +102,7 @@ I am currently trying hard to become a **Frontend developer** and get a job. <sp
       <a href="#stack" >
         <img src="https://www.svgrepo.com/show/342062/next-js.svg" width="36" height="36" alt="Next JS" />
       </a>
-      <br>Next
+      <br>Next (In progress)
     </td>
  <td align="center" width="110" height="90">
       <a href="#stack" >
