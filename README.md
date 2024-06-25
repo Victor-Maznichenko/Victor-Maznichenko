@@ -1,8 +1,10 @@
 # `<HelloWorld/>` 🌟🎉👋 <img align="right" src="https://komarev.com/ghpvc/?username=victor-maznichenko&color=2e1065"/>
-<div style="font-size:16px;">Welcome to my profile :)</div
+
+<div style="font-size:16px;">Welcome to my profile :)</div<br/>
 
 
-<h2 align="left" id="stack">🔥 Tech stack</h2>
+<h2 align="left" id="stack">🔥 Tech stack</h2><br/>
+
 
 > General
 
