@@ -106,7 +106,7 @@
     </td>
  <td align="center" width="110" height="90">
       <a href="#stack" >
-        <img src="https://i.ibb.co/sPC44D6/redux.png" width="36" height="36" alt="Redux" />
+        <img src="https://redux.js.org/img/redux.svg" width="36" height="36" alt="Redux" />
       </a>
       <br>Redux
     </td>
