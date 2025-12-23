@@ -160,6 +160,8 @@ Frontend Developer from Voronezh 📍
   </tr> 
 </table>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Maznichenko&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 ## ☄️ Contact
 <a href="https://t.me/One_twwo_three" target="_blank"><img width="40" height="40" src="./images/telegram.png"/></a>ㅤ
 <a href="https://vk.com/one_twwo_three" target="_blank"><img width="40" height="40" src="./images//vk.png"/></a> ㅤ
