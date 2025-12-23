@@ -1,7 +1,7 @@
 
 ### Hello there! I'm Victor Maznichenko <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Frontend Developer from Voronezh 📍
+Frontend developer from Voronezh 📍
 
 💙  I develop using TypeScript
 ✈️  Let's talk more in <a href="https://t.me/victor_maznichenko">Telegram<a/>
