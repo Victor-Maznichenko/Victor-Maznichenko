@@ -33,6 +33,7 @@
 <span><img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook logo" title="Storybook" style="height: 25px" /></span>
 <span><img src="https://img.shields.io/badge/MantineUI-339af0?style=for-the-badge&logo=mantine&logoColor=white" alt="Mantine logo" title="MantineUI" style="height: 25px" /></span>
 <span><img src="https://img.shields.io/badge/OpenAPI-87b439?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI logo" title="OpenAPI" style="height: 25px" /></span>
+<span><img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL logo" title="PostgreSQL" style="height: 25px" /></span>
 <br>
 > Currently learning / improving on    
 
