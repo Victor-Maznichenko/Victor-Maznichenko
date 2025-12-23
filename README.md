@@ -30,7 +30,7 @@
 <br>
 <span><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman logo" title="Postman" style="height: 25px" /></span>
 <span><img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite logo" title="vite" style="height: 25px" /></span>
-<span><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Graphql logo" title="Graphql" style="height: 25px" /></span>
+<!-- <span><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Graphql logo" title="Graphql" style="height: 25px" /></span> -->
 <span><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&&logo=Socket.io&logoColor=white" alt="Socket.io logo" title="Socket.io" style="height: 25px" /></span>
 <span><img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook logo" title="Storybook" style="height: 25px" /></span>
 <span><img src="https://img.shields.io/badge/MantineUI-339af0?style=for-the-badge&logo=mantine&logoColor=white" alt="Mantine logo" title="MantineUI" style="height: 25px" /></span>
