@@ -1,5 +1,5 @@
 
-### Hello there I'm Victor Maznichenko</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello there! I'm Victor Maznichenko <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Frontend Developer from Voronezh 📍
 
