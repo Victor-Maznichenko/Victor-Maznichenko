@@ -54,7 +54,7 @@
 <a href="https://vk.com/one_twwo_three" target="_blank"><img width="40" height="40" src="./images//vk.png"/></a> ㅤ
 <a href="https://www.linkedin.com/in/victor-maznichenko/" target="_blank"><img width="40" height="40" src="./images//email.png"/></a> ㅤ
 
-
+  
 
 <!-- <span><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Graphql logo" title="Graphql" style="height: 25px" /></span> -->
 <!-- <span><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&&logo=Socket.io&logoColor=white" alt="Socket.io logo" title="Socket.io" style="height: 25px" /></span> -->
