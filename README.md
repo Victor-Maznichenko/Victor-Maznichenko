@@ -42,7 +42,7 @@
 > Currently learning / improving on    
 
 <span><img src="https://img.shields.io/badge/Node.js-282C34?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" style="height: 25px" /></span>
-<span><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma logo" title="Prisma" style="height: 25px" /></span>
+<span><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS logo" title="Prisma" style="height: 25px" /></span>
 <span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker" style="height: 25px" /></span>
 
 <br>
